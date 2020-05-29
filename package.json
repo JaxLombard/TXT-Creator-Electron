@@ -1,0 +1,23 @@
+{
+  "name": "txtcreator",
+  "version": "1.0.0",
+  "description": "\"# TXT-Creator-Electron\" \r This is the first project I am attempting with Electron. I have almost no knowledge of JavaScript so this should be fun :)",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaxLombard/TXT-Creator-Electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaxLombard/TXT-Creator-Electron/issues"
+  },
+  "homepage": "https://github.com/JaxLombard/TXT-Creator-Electron#readme",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
