@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/JaxLombard/TXT-Creator-Electron#readme",
   "devDependencies": {
-    "electron": "^9.0.0"
+    "electron": "^9.3.0"
   }
 }
